@@ -1,21 +1,3 @@
 # app_calculadora
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FlutterCalculator
-# FlutterCalculator
-# FlutterCalculator
-# FlutterCalculator
-# FlutterCalculator
+<img width="502" alt="Mockup App Calculadora" src="https://user-images.githubusercontent.com/67394574/205773794-aad7027a-84ef-4821-b4d8-08145e52cfdb.png">
